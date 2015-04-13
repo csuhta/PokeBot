@@ -2,7 +2,7 @@
 
 An automated computer program that speedruns Pokémon Red, Blue, or Yellow.
 
-Pokémon Red Any%: [1:51:11](https://www.youtube.com/watch?v=M4pOlQ-mIoc) (23 June 2014)
+Pokémon Red Any%: [1:50:14](https://www.youtube.com/watch?v=lVE_ksd4WJw) (13 Apr 2015)
 
 ## Watch live
 
